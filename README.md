@@ -1,2 +1,2 @@
-# smarthome-fw-lib-esp8266-ddmq4
-Library to interface MQ-4 gas sensor
+# Smarthome firmware library for ESP8266 - MQ-4 gas sensor
+Library with functions for MQ-4 gas sensor based on ESP8266 board
